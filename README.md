@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard, a Junior (Class of 2024!) student at Cornell University studying Computer Science!
+- 👋 Hi, I’m Richard, a Junior (Class of 2024) student at Cornell University studying Computer Science!
 - 👀 I’m interested in Software Engineering and Development!
 - 🌱 I’m currently learning Computer Vision, Machine Learning, Computer Networks, and Operating Systems.
 - 📫 Reach out to me at https://www.linkedin.com/in/richard-sh-kim/
