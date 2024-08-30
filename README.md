@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Richard, a Senior (Class of 2024) student at Cornell University studying Computer Science!
-- 👀 I’m interested in Full-Stack Software Engineering!
-- 🌱 I’m currently a Part-Time Junior Software Engineer at Solene.
+- 👋 Hi, I’m Richard, CS 2024 Cornell University Grad!
+- 👀 I’m interested in Full-Stack Software Engineering.
+- 🌱 I’m currently a Junior Software Engineer at Solene in NYC.
 - 📫 Reach out to me at https://www.linkedin.com/in/richard-sh-kim/
 
 <!---
